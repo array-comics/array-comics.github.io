@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/</loc>
+  </url><url>
+    <loc>http://localhost:1313/comics/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/ember/</loc>
+  </url><url>
+    <loc>http://localhost:1313/comics/ember-1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/publishers/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/years/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/%D0%BA%D0%BE%D0%BC%D0%B8%D0%BA%D1%81/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/%D1%82%D0%B5%D1%81%D1%82/</loc>
+  </url>
+</urlset>

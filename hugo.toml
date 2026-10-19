@@ -1,3 +1,14 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+baseURL = 'https://array-comics.github.io/'
+languageCode = 'ru-ru'
+title = 'Array Comics'
+theme = 'PaperMod'
+
+[taxonomies]
+  publisher = 'publishers'
+  series = 'series'
+  tag = 'tags'
+  year = 'years'
+
+[params]
+  ShowReadingTime = false
+  ShowWordCount = false
