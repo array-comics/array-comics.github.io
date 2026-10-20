@@ -2,22 +2,15 @@ baseURL = 'https://array-comics.github.io/'
 languageCode = 'ru-ru'
 title = 'Array Comics'
 
-# Включаем отображение таксономий на страницах комиксов
 [taxonomies]
   publisher = "publishers"
   series = "series"
   tag = "tags"
   year = "years"
-  
-# Включаем темную тему по умолчанию (как на вашем старом сайте)
+
 [params]
-  ShowReadingTime = false
-  ShowWordCount = false
-  defaultTheme = "dark"
-  disableSpecial1stPost = true
-  ShowCodeCopyButtons = true
-  
-# Настраиваем верхнее меню
+  description = "Библиотека комиксов"
+
 [[menu.main]]
   identifier = "publishers"
   name = "Издатели"

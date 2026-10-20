@@ -1,6 +1,24 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
 
+{{ if eq .Kind "term" }}
+<!-- Это страница конкретного термина (например, /publishers/ablaze/) -->
+<div class="comics-grid">
+    {{ range .Pages }}
+    <article class="comic-card">
+        <a href="{{ .Permalink }}">
+            {{ with .Params.cover }}
+            <div class="cover">
+                <img src="{{ .image }}" alt="{{ $.Title }}">
+            </div>
+            {{ end }}
+            <h2>{{ .Title }}</h2>
+        </a>
+    </article>
+    {{ end }}
+</div>
+{{ else }}
+<!-- Это список всех терминов таксономии (например, /publishers/) -->
 <ul class="taxonomy-list">
     {{ range $name, $taxonomy := .Site.Taxonomies.publisher }}
     <li>
@@ -10,4 +28,5 @@
     </li>
     {{ end }}
 </ul>
+{{ end }}
 {{ end }}
