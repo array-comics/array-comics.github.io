@@ -1,31 +1,42 @@
 <!DOCTYPE html>
-<html lang="{{ site.LanguageCode }}" dir="{{ .Site.Language.LanguageDirection | default "ltr" }}">
+<html lang="ru">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    
-    {{- partial "head.html" . }}
-    
-    {{- $styles := resources.Get "css/extended/blank.css" }}
-    {{- if $styles }}
-    <link rel="stylesheet" href="{{ $styles.Permalink }}">
-    {{- end }}
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
+    <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
-    <div class="site-wrapper">
+    <header class="site-header">
+        <div class="container">
+            <a href="/" class="logo">{{ .Site.Title }}</a>
+            <nav class="main-nav">
+                {{ range .Site.Menus.main }}
+                <a href="{{ .URL }}">{{ .Name }}</a>
+                {{ end }}
+            </nav>
+        </div>
+    </header>
+    
+    <div class="site-wrapper container">
         <aside class="sidebar">
             <h3>Издатели</h3>
             <ul>
                 {{ range $name, $taxonomy := .Site.Taxonomies.publishers }}
-                <li><a href="/publishers/{{ $name | urlize }}">{{ $name }}</a> ({{ $taxonomy.Count }})</li>
+                <li><a href="/publishers/{{ $name | urlize }}">{{ $name }}</a> <span class="count">({{ $taxonomy.Count }})</span></li>
                 {{ end }}
             </ul>
         </aside>
+        
         <main class="content">
-            {{- block "main" . }}{{- end }}
+            {{ block "main" . }}{{ end }}
         </main>
     </div>
-    {{- partial "footer.html" . }}
+    
+    <footer class="site-footer">
+        <div class="container">
+            <p>&copy; {{ now.Year }} {{ .Site.Title }}</p>
+        </div>
+    </footer>
 </body>
 </html>

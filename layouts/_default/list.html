@@ -1,0 +1,19 @@
+{{ define "main" }}
+<h1>Последние выпуски</h1>
+
+<div class="comics-grid">
+    {{ range .Pages }}
+    <article class="comic-card">
+        <a href="{{ .Permalink }}">
+            {{ with .Params.cover }}
+            <div class="cover">
+                <img src="{{ .image }}" alt="{{ $.Title }}">
+            </div>
+            {{ end }}
+            <h2>{{ .Title }}</h2>
+            <p class="publisher">{{ .Params.publisher }}</p>
+        </a>
+    </article>
+    {{ end }}
+</div>
+{{ end }}

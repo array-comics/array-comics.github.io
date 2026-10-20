@@ -1,0 +1,29 @@
+{{ define "main" }}
+<article class="comic-single">
+    <div class="comic-header">
+        <div class="cover-large">
+            {{ with .Params.cover }}
+            <img src="{{ .image }}" alt="{{ $.Title }}">
+            {{ end }}
+        </div>
+        <div class="comic-info">
+            <h1>{{ .Title }}</h1>
+            <p class="meta">
+                <strong>Издатель:</strong> {{ .Params.publisher }}<br>
+                <strong>Серия:</strong> {{ .Params.series }}<br>
+                <strong>Год:</strong> {{ .Params.year }}<br>
+                <strong>№ выпуска:</strong> {{ .Params.issue_number }}
+            </p>
+            <div class="tags">
+                {{ range .Params.tags }}
+                <span class="tag">{{ . }}</span>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+    
+    <div class="comic-content">
+        {{ .Content }}
+    </div>
+</article>
+{{ end }}
