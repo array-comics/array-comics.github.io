@@ -9,11 +9,18 @@
         <div class="comic-info">
             <h1>{{ .Title }}</h1>
             <p class="meta">
-                <strong>Издатель:</strong> <a href="/publishers/{{ .Params.publisher | urlize }}">{{ .Params.publisher }}</a><br>
+                <strong>Издатель:</strong> <a href="/publishers/{{ range .Params.publishers }}{{ . | urlize }}{{ end }}">{{ range .Params.publishers }}{{ . }}{{ end }}</a><br>
                 <strong>Серия:</strong> <a href="/series/{{ .Params.series | urlize }}">{{ .Params.series }}</a><br>
                 <strong>Год:</strong> {{ .Params.year }}<br>
                 <strong>№ выпуска:</strong> {{ .Params.issue_number }}
             </p>
+            
+            {{ if .Params.download_url }}
+            <a href="{{ .Params.download_url }}" class="download-btn" target="_blank" rel="noopener">
+                 Скачать / Облако
+            </a>
+            {{ end }}
+            
             <div class="tags">
                 {{ range .Params.tags }}
                 <a href="/tags/{{ . | urlize }}" class="tag">{{ . }}</a>
