@@ -1,7 +1,7 @@
 ﻿---
 title: "The Boogyman #3"
 series: "The Boogyman"
-publisher: "Ablaze"
+publishers: "Ablaze"
 year: 2022
 issue_number: "3"
 tags:

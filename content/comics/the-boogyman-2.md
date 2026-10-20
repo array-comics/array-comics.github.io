@@ -1,7 +1,7 @@
 ﻿---
 title: "The Boogyman #2"
 series: "The Boogyman"
-publisher: "Ablaze"
+publishers: "Ablaze"
 year: 2022
 issue_number: "2"
 tags:

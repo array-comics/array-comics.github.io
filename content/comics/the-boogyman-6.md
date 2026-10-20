@@ -1,7 +1,7 @@
 ﻿---
 title: "The Boogyman #6"
 series: "The Boogyman"
-publisher: "Ablaze"
+publishers: "Ablaze"
 year: 2023
 issue_number: "6"
 tags:
