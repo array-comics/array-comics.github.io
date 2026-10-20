@@ -1,0 +1,15 @@
+﻿---
+title: "The Boogyman #2"
+series: "The Boogyman"
+publisher: "Ablaze"
+year: 2022
+issue_number: "2"
+tags:
+  - 2022
+  - Djet
+  - Mathieu Salvia
+cover: "/assets/covers/array_The-Boogyman_#2_(2022).jpg"
+draft: false
+---
+
+Monsters don't only exist in children's imaginations... The monsters who took Elliott’s family from him are hot on his trail. But they must also contend with his new protector, Father Death. Thought to be long dead, this boogyman is more than he seems. An ancient power long thought lost, but now that he has shown himself to save the boy, he becomes a target himself!
