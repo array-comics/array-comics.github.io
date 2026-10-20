@@ -11,6 +11,52 @@ body {
     line-height: 1.6;
 }
 
+/* Общие стили ссылок */
+a {
+    color: #4a9eff;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+a:hover {
+    color: #6bb3ff;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #4a9eff; /* Тот же цвет, что и обычные ссылки */
+}
+
+/* Ссылки в мета-информации (издатель, серия) */
+.comic-info .meta a {
+    color: #4a9eff;
+}
+
+.comic-info .meta a:visited {
+    color: #4a9eff;
+}
+
+/* Ссылки в тегах */
+.tag {
+    background: #333;
+    color: #e0e0e0;
+    padding: 0.3rem 0.8rem;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    display: inline-block;
+    margin: 0.2rem;
+}
+
+.tag:hover {
+    background: #444;
+    color: #fff;
+    text-decoration: none;
+}
+
+.tag:visited {
+    color: #e0e0e0;
+}
+
 .container {
     max-width: 1400px;
     margin: 0 auto;
@@ -146,6 +192,7 @@ body {
     background: #252525;
     padding: 2rem;
     border-radius: 8px;
+	overflow: hidden;
 }
 
 .comic-header {
@@ -180,15 +227,11 @@ body {
     gap: 0.5rem;
 }
 
-.tag {
-    background: #333;
-    padding: 0.3rem 0.8rem;
-    border-radius: 4px;
-    font-size: 0.9rem;
-}
-
 .comic-content {
     line-height: 1.8;
+    margin-top: 1.5rem;
+    padding-top: 1.5rem;
+	border-top: 1px solid #333;
 }
 
 /* Footer */
