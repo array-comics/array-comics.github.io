@@ -19,14 +19,17 @@
     </header>
     
     <div class="site-wrapper container">
-        <aside class="sidebar">
-            <h3>Издатели</h3>
-            <ul>
-                {{ range $name, $taxonomy := .Site.Taxonomies.publisher }}
-                <li><a href="/publishers/{{ $name | urlize }}">{{ $name }}</a> <span class="count">({{ $taxonomy.Count }})</span></li>
-                {{ end }}
-            </ul>
-        </aside>
+<aside class="sidebar">
+    <h3>Издатели</h3>
+    <ul>
+        {{ range $name, $taxonomy := .Site.Taxonomies.publisher }}
+        <li>
+            <a href="/publishers/{{ $name | urlize }}">{{ $name }}</a> 
+            <span class="count">({{ $taxonomy.Count }})</span>
+        </li>
+        {{ end }}
+    </ul>
+</aside>
         
         <main class="content">
             {{ block "main" . }}{{ end }}
