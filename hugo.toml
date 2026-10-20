@@ -15,6 +15,7 @@ theme = 'PaperMod'
   ShowReadingTime = false
   ShowWordCount = false
   defaultTheme = "dark"
+  disableSpecial1stPost = true
   ShowCodeCopyButtons = true
   
 # Настраиваем верхнее меню

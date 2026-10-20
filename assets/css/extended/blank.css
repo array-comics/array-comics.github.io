@@ -1,18 +1,19 @@
-/* assets/css/extended/blank.css */
+/* Сетка для постов на главной */
+.home .post-entry {
+    display: inline-block !important;
+    width: 30% !important;
+    margin: 1% !important;
+    vertical-align: top !important;
+}
 
-/* Сетка для комиксов */
-.post-entry {
-    display: inline-block;
-    width: 30%;
-    margin: 1%;
-    vertical-align: top;
+.home .post-entry .entry-cover img {
+    max-height: 300px !important;
+    object-fit: cover !important;
 }
-.post-entry .entry-cover img {
-    max-height: 300px;
-    object-fit: cover;
-}
+
+/* Боковое меню */
 .site-wrapper {
-    display: flex;
+    display: flex !important;
     gap: 2rem;
     max-width: 1200px;
     margin: 0 auto;
@@ -24,10 +25,6 @@
     flex-shrink: 0;
 }
 
-.sidebar h3 {
-    margin-bottom: 1rem;
-}
-
 .sidebar ul {
     list-style: none;
     padding: 0;
@@ -35,11 +32,6 @@
 
 .sidebar li {
     margin-bottom: 0.5rem;
-}
-
-.sidebar a {
-    color: var(--primary);
-    text-decoration: none;
 }
 
 .content {
