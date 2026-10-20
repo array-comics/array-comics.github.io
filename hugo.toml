@@ -1,7 +1,6 @@
 baseURL = 'https://array-comics.github.io/'
 languageCode = 'ru-ru'
 title = 'Array Comics'
-theme = 'PaperMod'
 
 # Включаем отображение таксономий на страницах комиксов
 [taxonomies]
