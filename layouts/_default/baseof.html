@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="{{ site.LanguageCode }}" dir="{{ .Site.Language.LanguageDirection | default "ltr" }}">
+<head>
+    {{- partial "head.html" . }}
+</head>
+<body>
+    <div class="site-wrapper">
+        <aside class="sidebar">
+            <h3>Издатели</h3>
+            <ul>
+                {{ range $name, $taxonomy := .Site.Taxonomies.publisher }}
+                <li><a href="/publishers/{{ $name | urlize }}">{{ $name }}</a> ({{ $taxonomy.Count }})</li>
+                {{ end }}
+            </ul>
+        </aside>
+        <main class="content">
+            {{- block "main" . }}{{- end }}
+        </main>
+    </div>
+    {{- partial "footer.html" . }}
+</body>
+</html>
