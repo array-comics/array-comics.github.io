@@ -1,0 +1,11 @@
+/* assets/css/extended/blank.css */
+.post-entry {
+    display: inline-block;
+    width: 30%;
+    margin: 1%;
+    vertical-align: top;
+}
+.post-entry .entry-cover img {
+    max-height: 300px;
+    object-fit: cover;
+}

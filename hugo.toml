@@ -3,12 +3,35 @@ languageCode = 'ru-ru'
 title = 'Array Comics'
 theme = 'PaperMod'
 
+# Включаем отображение таксономий на страницах комиксов
 [taxonomies]
-  publisher = 'publishers'
-  series = 'series'
-  tag = 'tags'
-  year = 'years'
-
+  publisher = "publishers"
+  series = "series"
+  tag = "tags"
+  year = "years"
+  
+# Включаем темную тему по умолчанию (как на вашем старом сайте)
 [params]
   ShowReadingTime = false
   ShowWordCount = false
+  defaultTheme = "dark"
+  ShowCodeCopyButtons = true
+  
+# Настраиваем верхнее меню
+[[menu.main]]
+  identifier = "publishers"
+  name = "Издатели"
+  url = "/publishers/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "series"
+  name = "Серии"
+  url = "/series/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "tags"
+  name = "Метки"
+  url = "/tags/"
+  weight = 30
