@@ -9,7 +9,7 @@ tags:
   - Djet
   - Mathieu Salvia
 cover:
-  image: "/assets/covers/array_The-Boogyman_#4_(2022).jpg"
+  image: "/assets/covers/array_The-Boogyman_v4_2022.jpg"
 draft: false
 ---
 
