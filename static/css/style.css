@@ -224,3 +224,30 @@ body {
         grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
     }
 }
+
+.taxonomy-list {
+    list-style: none;
+    padding: 0;
+}
+
+.taxonomy-list li {
+    margin-bottom: 1rem;
+    background: #252525;
+    padding: 1rem;
+    border-radius: 8px;
+}
+
+.taxonomy-list a {
+    color: #4a9eff;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+.taxonomy-list a:hover {
+    text-decoration: underline;
+}
+
+.taxonomy-list .count {
+    color: #888;
+    font-size: 0.9rem;
+}

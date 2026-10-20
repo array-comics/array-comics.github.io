@@ -1,18 +1,13 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
 
-<div class="comics-grid">
-    {{ range .Pages }}
-    <article class="comic-card">
-        <a href="{{ .Permalink }}">
-            {{ with .Params.cover }}
-            <div class="cover">
-                <img src="{{ .image }}" alt="{{ $.Title }}">
-            </div>
-            {{ end }}
-            <h2>{{ .Title }}</h2>
+<ul class="taxonomy-list">
+    {{ range $name, $taxonomy := .Site.Taxonomies.publisher }}
+    <li>
+        <a href="/publishers/{{ $name | urlize }}">
+            {{ $name }} <span class="count">({{ $taxonomy.Count }})</span>
         </a>
-    </article>
+    </li>
     {{ end }}
-</div>
+</ul>
 {{ end }}

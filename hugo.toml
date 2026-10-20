@@ -4,7 +4,7 @@ title = 'Array Comics'
 
 # Включаем отображение таксономий на страницах комиксов
 [taxonomies]
-  publishers = "publishers"
+  publisher = "publishers"
   series = "series"
   tag = "tags"
   year = "years"
