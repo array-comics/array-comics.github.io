@@ -8,7 +8,8 @@ tags:
   - 2022
   - Djet
   - Mathieu Salvia
-cover: "/assets/covers/array_The-Boogyman_#4_(2022).jpg"
+cover:
+  image: "/assets/covers/array_The-Boogyman_#4_(2022).jpg"
 draft: false
 ---
 

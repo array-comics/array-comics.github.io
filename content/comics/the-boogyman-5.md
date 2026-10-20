@@ -8,7 +8,8 @@ tags:
   - 2023
   - Djet
   - Mathieu Salvia
-cover: "/assets/covers/array_The-Boogyman_#5_(2023).jpg"
+cover:
+  image: "/assets/covers/array_The-Boogyman_#5_(2023).jpg"
 draft: false
 ---
 
