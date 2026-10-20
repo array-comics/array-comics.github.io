@@ -22,7 +22,7 @@
 <aside class="sidebar">
     <h3>Издатели</h3>
     <ul>
-        {{ range $name, $taxonomy := .Site.Taxonomies.publisher }}
+        {{ range $name, $taxonomy := .Site.Taxonomies.publishers }}
         <li>
             <a href="/publishers/{{ $name | urlize }}">{{ $name }}</a> 
             <span class="count">({{ $taxonomy.Count }})</span>
