@@ -1,7 +1,7 @@
 ﻿---
 title: "The Boogyman #1"
 series: "The Boogyman"
-publisher: "Ablaze"
+publishers: "Ablaze"
 year: 2022
 issue_number: "1"
 tags:
