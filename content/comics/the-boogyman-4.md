@@ -1,7 +1,8 @@
 ﻿---
 title: "The Boogyman #4"
 series: "The Boogyman"
-publishers: "Ablaze"
+publishers:
+  - "Ablaze"
 year: 2022
 issue_number: "4"
 tags:
@@ -10,6 +11,8 @@ tags:
   - Mathieu Salvia
 cover:
   image: "/assets/covers/array_The-Boogyman_v4_2022.jpg"
+download_url: ""
+
 draft: false
 ---
 

@@ -1,7 +1,8 @@
 ﻿---
 title: "The Boogyman #3"
 series: "The Boogyman"
-publishers: "Ablaze"
+publishers:
+  - "Ablaze"
 year: 2022
 issue_number: "3"
 tags:
@@ -10,6 +11,8 @@ tags:
   - Mathieu Salvia
 cover:
   image: "/assets/covers/array_The-Boogyman_v3_2022.jpg"
+download_url: ""
+
 draft: false
 ---
 

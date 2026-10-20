@@ -1,7 +1,8 @@
 ﻿---
 title: "The Boogyman #5"
 series: "The Boogyman"
-publishers: "Ablaze"
+publishers:
+  - "Ablaze"
 year: 2023
 issue_number: "5"
 tags:
@@ -10,6 +11,8 @@ tags:
   - Mathieu Salvia
 cover:
   image: "/assets/covers/array_The-Boogyman_v5_2023.jpg"
+download_url: ""
+
 draft: false
 ---
 
