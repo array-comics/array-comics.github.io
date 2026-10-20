@@ -2,12 +2,19 @@
 .home .post-entry {
     display: inline-block !important;
     width: 30% !important;
-    margin: 1% !important;
+    margin: 0.5% !important;
     vertical-align: top !important;
+    max-width: 32% !important;
+}
+
+.home .post-entry .entry-cover {
+    width: 100% !important;
 }
 
 .home .post-entry .entry-cover img {
-    max-height: 300px !important;
+    width: 100% !important;
+    height: auto !important;
+    max-height: 400px !important;
     object-fit: cover !important;
 }
 
@@ -15,7 +22,7 @@
 .site-wrapper {
     display: flex !important;
     gap: 2rem;
-    max-width: 1200px;
+    max-width: 1400px;
     margin: 0 auto;
     padding: 2rem;
 }
@@ -48,19 +55,10 @@
     text-decoration: none;
 }
 
-.sidebar a:hover {
-    text-decoration: underline;
-}
-
 .content {
     flex: 1;
 }
 
-h3 {
-	border: 1px solid red;
-}
-
-/* Адаптив для мобильных */
 @media (max-width: 768px) {
     .site-wrapper {
         flex-direction: column;
@@ -68,11 +66,10 @@ h3 {
     
     .sidebar {
         width: 100%;
-        margin-bottom: 2rem;
     }
     
     .home .post-entry {
         width: 100% !important;
-        margin: 0 0 1rem 0 !important;
+        max-width: 100% !important;
     }
 }
