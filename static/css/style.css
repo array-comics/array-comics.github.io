@@ -252,6 +252,9 @@ a:visited {
     .sidebar {
         width: 100%;
     }
+	.sidebar li {
+    text-transform: capitalize;
+	}	
     
     .comic-header {
         flex-direction: column;
@@ -270,20 +273,23 @@ a:visited {
 
 .taxonomy-list {
     list-style: none;
-    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
 }
 
 .taxonomy-list li {
-    margin-bottom: 1rem;
     background: #252525;
-    padding: 1rem;
-    border-radius: 8px;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    margin-bottom: 0;
 }
 
 .taxonomy-list a {
     color: #4a9eff;
     text-decoration: none;
     font-size: 1.2rem;
+	white-space: nowrap;
 }
 
 .taxonomy-list a:hover {
@@ -296,7 +302,8 @@ a:visited {
 
 .taxonomy-list .count {
     color: #888;
-    font-size: 0.9rem;
+    font-size: 0.85rem;
+    margin-left: 0.3rem;
 }
 
 .download-btn {
