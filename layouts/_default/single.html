@@ -3,7 +3,7 @@
     <div class="comic-header">
         <div class="cover-large">
             {{ with .Params.cover }}
-            <img src="{{ .image }}" alt="{{ $.Title }}">
+            <img src="{{ .image }}" alt="{{ $.Title }}" loading="lazy">
             {{ end }}
         </div>
         <div class="comic-info">

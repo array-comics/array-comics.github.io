@@ -7,7 +7,7 @@
         <a href="{{ .Permalink }}">
             {{ with .Params.cover }}
             <div class="cover">
-                <img src="{{ .image }}" alt="{{ $.Title }}">
+                <img src="{{ .image }}" alt="{{ $.Title }}" loading="lazy">
             </div>
             {{ end }}
             <h2>{{ .Title }}</h2>
