@@ -121,6 +121,7 @@ a:visited {
 
 .sidebar li {
     margin-bottom: 0.5rem;
+	text-transform: capitalize;
 }
 
 .sidebar a {
@@ -252,9 +253,6 @@ a:visited {
     .sidebar {
         width: 100%;
     }
-	.sidebar li {
-    text-transform: capitalize;
-	}	
     
     .comic-header {
         flex-direction: column;
