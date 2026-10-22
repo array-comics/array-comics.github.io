@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Merlin on Array Comics</title>
+		<link>http://localhost:1313/tags/merlin/</link>
+		<description>Recent content in Merlin on Array Comics</description>
+		<generator>Hugo</generator>
+		<language>ru-ru</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/tags/merlin/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Holy F*ck #4</title>
+				<link>http://localhost:1313/comics/holy-fck-4/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/comics/holy-fck-4/</guid>
+				<description>&lt;p&gt;Jesus takes the fight directly to Zeus and Isis, the two mythological gods leading a horde of desperate, worship-hungry deities! But do Jesus, Satan, and Sister Maria actually stand a chance? And can they keep their sh&lt;em&gt;t together long enough to stop the coming madness?Back-up Feature:Holy F&lt;/em&gt;ck Origins: 506 AD + 1 BCRelease Dates:Digital Edition - 2/18/2015Print Edition - 4/15/2015List of covers and their creators:CoverNameCreator(s)Sidebar LocationRegRegular CoverDaniel Arruda Massa1VarVariant Cover, Limited to 1500Daniel Arruda Massa2VarVariant Cover, Limited to 1500Daniel Arruda Massa3&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

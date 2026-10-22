@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Aliens: Countdown on Array Comics</title>
+		<link>http://localhost:1313/series/aliens-countdown/</link>
+		<description>Recent content in Aliens: Countdown on Array Comics</description>
+		<generator>Hugo</generator>
+		<language>ru-ru</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/series/aliens-countdown/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Aliens: Countdown #1</title>
+				<link>http://localhost:1313/comics/aliens-countdown-1/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/comics/aliens-countdown-1/</guid>
+				<description>&lt;p&gt;Three Marines who were deemed &amp;quot;non-vital&amp;quot; by the Company and left to rot on Xenomorph-infested Earth attempt to find proof that the Company was responsible for bringing the Xenomorphs to Earth in the first place. Instead, they find a nuclear reactor set to self-destruct that in 53 minutes will vaporize everything within one hundred square miles. The countdown has begun, and all that stands between these three Marines and their ship are countless Xenomorphs, scumbag Marines turned mercenaries, and worse.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Aliens: Countdown #2</title>
+				<link>http://localhost:1313/comics/aliens-countdown-2/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/comics/aliens-countdown-2/</guid>
+				<description>&lt;p&gt;Despite escaping death multiple times, at the hands of Xenomorph or otherwise, our three brave Marines wind up finding their ship trashed, leaving them with no way to escape the nuclear reactor&amp;rsquo;s detonation. If they can make it to the underground blast shelter however, they might still have a chance at surviving. Will they make it there before the reactor detonates or the Xenomorphs kill them? Only time will tell, and time is running out.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

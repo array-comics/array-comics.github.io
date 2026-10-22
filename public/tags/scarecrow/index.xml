@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Scarecrow on Array Comics</title>
+		<link>http://localhost:1313/tags/scarecrow/</link>
+		<description>Recent content in Scarecrow on Array Comics</description>
+		<generator>Hugo</generator>
+		<language>ru-ru</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/tags/scarecrow/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>OZF5: Gale Force #1</title>
+				<link>http://localhost:1313/comics/ozf5-gale-force-1/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/comics/ozf5-gale-force-1/</guid>
+				<description>&lt;p&gt;Dorothy Gale is back in Oz, but this time she brought a water gun. Dorothy Gale teams up with a master of Wing Chun Kung Fu Scarecrow, a kilt-wearing Celtic-Warrior King of the Beasts Lion and an axe wielding Tin Man War Machine who is composed of various automobile parts that have been dropped into Oz by whirlwinds. With the ferocity of an F5 tornado, Dorothy and crew face Rocket-powered Flying Monkeys, marauding Winkie War Machines, and the West Witch&amp;rsquo;s murderous crows and wicked wolves as they attempt to free the strange Land of Oz from the Witch&amp;rsquo;s wicked reign.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

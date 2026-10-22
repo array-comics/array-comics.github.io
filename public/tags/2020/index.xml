@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>2020 on Array Comics</title>
+		<link>http://localhost:1313/tags/2020/</link>
+		<description>Recent content in 2020 on Array Comics</description>
+		<generator>Hugo</generator>
+		<language>ru-ru</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/tags/2020/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Cyberpunk 2077: Trauma Team #2</title>
+				<link>http://localhost:1313/comics/cyberpunk-2077-trauma-team-2/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/comics/cyberpunk-2077-trauma-team-2/</guid>
+				<description>&lt;p&gt;New series based on the highly anticipated game! Nadia&amp;rsquo;s first mission since the massacre of her previous Trauma Team is attempting to save Apex, the man who killed them. To make matters worse, Nadia suffers through guilt, shock, and old memories as her and her team are a hundred floors high in a skyscraper filled with gang members who want to take Apex down.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Cyberpunk 2077: Trauma Team #3</title>
+				<link>http://localhost:1313/comics/cyberpunk-2077-trauma-team-3/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/comics/cyberpunk-2077-trauma-team-3/</guid>
+				<description>&lt;p&gt;New series based on the highly anticipated game! EMTs Nadia and Knapp, and their criminal client Apex, are surrounded in a skyscraper by an onslaught of vicious gang members looking to avenge their leader. But Nadia&amp;rsquo;s will to escort Apex to safety and complete the mission wanes with every descending floor&amp;ndash;especially when a mother and her ill child become inadvertently involved.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Cyberpunk 2077: Trauma Team #4</title>
+				<link>http://localhost:1313/comics/cyberpunk-2077-trauma-team-4/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/comics/cyberpunk-2077-trauma-team-4/</guid>
+				<description>&lt;p&gt;New series based on the highly anticipated game! The horde of gang members sees no end as the attempt to extract Apex grows more deadly in a blaze of gunfire and slashing blades. But the mission takes a shocking turn when the prestigious criminal client takes matters into his own hands and Nadia must relive the trauma of the past.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

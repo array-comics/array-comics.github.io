@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>2024 on Array Comics</title>
+		<link>https://array-comics.github.io/tags/2024/</link>
+		<description>Recent content in 2024 on Array Comics</description>
+		<generator>Hugo</generator>
+		<language>ru-ru</language>
+		
+		
+		
+		
+			<atom:link href="https://array-comics.github.io/tags/2024/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Dark Avenger #1</title>
+				<link>https://array-comics.github.io/comics/dark-avenger-1/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/dark-avenger-1/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Dark Avenger #2</title>
+				<link>https://array-comics.github.io/comics/dark-avenger-2/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/dark-avenger-2/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Dark Avenger #3</title>
+				<link>https://array-comics.github.io/comics/dark-avenger-3/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/dark-avenger-3/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Dark Avenger #4</title>
+				<link>https://array-comics.github.io/comics/dark-avenger-4/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/dark-avenger-4/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Dark Avenger #5</title>
+				<link>https://array-comics.github.io/comics/dark-avenger-5/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/dark-avenger-5/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Dark Avenger #6</title>
+				<link>https://array-comics.github.io/comics/dark-avenger-6/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/dark-avenger-6/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>2005 on Array Comics</title>
+		<link>http://localhost:1313/tags/2005/</link>
+		<description>Recent content in 2005 on Array Comics</description>
+		<generator>Hugo</generator>
+		<language>ru-ru</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/tags/2005/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>OZF5: Gale Force #1</title>
+				<link>http://localhost:1313/comics/ozf5-gale-force-1/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/comics/ozf5-gale-force-1/</guid>
+				<description>&lt;p&gt;Dorothy Gale is back in Oz, but this time she brought a water gun. Dorothy Gale teams up with a master of Wing Chun Kung Fu Scarecrow, a kilt-wearing Celtic-Warrior King of the Beasts Lion and an axe wielding Tin Man War Machine who is composed of various automobile parts that have been dropped into Oz by whirlwinds. With the ferocity of an F5 tornado, Dorothy and crew face Rocket-powered Flying Monkeys, marauding Winkie War Machines, and the West Witch&amp;rsquo;s murderous crows and wicked wolves as they attempt to free the strange Land of Oz from the Witch&amp;rsquo;s wicked reign.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>XIII #1</title>
+				<link>http://localhost:1313/comics/xiii-1/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/comics/xiii-1/</guid>
+				<description>&lt;p&gt;The smash sensation of Europe that&amp;rsquo;s printed in over a dozen languages is translated into English for the first time! A man without a past wakes up in an unknown place. His only clues to his true identity are his remarkable fighting skills, and a tattoo: XIII. Things get dicey quick as a band of killers find his trail, and they give pursuit as well as the civil and military police! It&amp;rsquo;s a chase that goes around the world for a man in the search of his past.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>XIII #2</title>
+				<link>http://localhost:1313/comics/xiii-2/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/comics/xiii-2/</guid>
+				<description>&lt;p&gt;The best-selling smash sensation of Europe comes to America. The story from which the hit video game was developed makes it&amp;rsquo;s debut as XIII comes to Alias. This is only the beginning for the mysterious man, for soon he discovers that the civil and military police are looking for him too.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>XIII #3</title>
+				<link>http://localhost:1313/comics/xiii-3/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/comics/xiii-3/</guid>
+				<description>&lt;p&gt;With nothing more than a tattoo of the number &amp;quot;XIII&amp;quot; on his shoulder, he&amp;rsquo;s a man without a past, without a family, and without a name. The answers seems to lead to more people who want him dead. Is he the world&amp;rsquo;s most hated assassin, or merely a scapegoat?&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

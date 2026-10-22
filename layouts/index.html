@@ -2,7 +2,10 @@
 <h1>Последние выпуски</h1>
 
 <div class="comics-grid">
-    {{ range .Site.RegularPages }}
+{{ $sorted := sort .Site.RegularPages ".Params.weight" "desc" }}
+    {{ $paginated := .Paginate $sorted 10 }}
+    
+    {{ range $paginated.Pages }}
     <article class="comic-card">
         <a href="{{ .Permalink }}">
             {{ with .Params.cover }}
@@ -11,9 +14,11 @@
             </div>
             {{ end }}
             <h2>{{ .Title }}</h2>
-            <p class="publisher">{{ .Params.publisher }}</p>
+            <p class="publisher">{{ range .Params.publishers }}{{ . }}{{ end }}</p>
         </a>
     </article>
     {{ end }}
 </div>
+
+{{ partial "pagination.html" . }}
 {{ end }}

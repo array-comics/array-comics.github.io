@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Survivante on Array Comics</title>
+		<link>http://localhost:1313/series/survivante/</link>
+		<description>Recent content in Survivante on Array Comics</description>
+		<generator>Hugo</generator>
+		<language>ru-ru</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/series/survivante/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Survivante #1</title>
+				<link>http://localhost:1313/comics/survivante-1/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/comics/survivante-1/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Survivante #2</title>
+				<link>http://localhost:1313/comics/survivante-2/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/comics/survivante-2/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Survivante #3</title>
+				<link>http://localhost:1313/comics/survivante-3/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/comics/survivante-3/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Survivante #4</title>
+				<link>http://localhost:1313/comics/survivante-4/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/comics/survivante-4/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

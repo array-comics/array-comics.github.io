@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Juan Pablo Montenegro on Array Comics</title>
+		<link>http://localhost:1313/tags/juan-pablo-montenegro/</link>
+		<description>Recent content in Juan Pablo Montenegro on Array Comics</description>
+		<generator>Hugo</generator>
+		<language>ru-ru</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/tags/juan-pablo-montenegro/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Critical Role: Vox Machina Origins III #5</title>
+				<link>http://localhost:1313/comics/critical-role-vox-machina-origins-iii-5/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/comics/critical-role-vox-machina-origins-iii-5/</guid>
+				<description>&lt;p&gt;Why use a dragon to freeze a town? That&amp;rsquo;s the question Vox Machina is asking after their encounter with Skysunder and the defrosting of Westruun. With the town blaming the attack on Realmseer Eskil Ryndarien, who once saved Grog&amp;rsquo;s life, Vox Machina makes tracks to clear the Realmseer&amp;rsquo;s name. But as happens in these situations, the trail leads to some unusual places.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

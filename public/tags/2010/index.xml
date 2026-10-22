@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>2010 on Array Comics</title>
+		<link>http://localhost:1313/tags/2010/</link>
+		<description>Recent content in 2010 on Array Comics</description>
+		<generator>Hugo</generator>
+		<language>ru-ru</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/tags/2010/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>President Evil #4</title>
+				<link>http://localhost:1313/comics/president-evil-4/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/comics/president-evil-4/</guid>
+				<description>&lt;p&gt;Yes We Cannibal Washington, D.C. is now completely overrun with the undead. While it&amp;rsquo;s an option he never wanted to employ, &amp;lsquo;Ba-rot&amp;rsquo; has no choice but to wall up the zombie-infested city! The embattled President then makes his way to the nation&amp;rsquo;s new capital in&amp;hellip;Honolulu!?&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

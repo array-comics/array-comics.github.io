@@ -28,3 +28,5 @@ title = 'Array Comics'
   name = "Метки"
   url = "/tags/"
   weight = 30
+  
+paginate = 20

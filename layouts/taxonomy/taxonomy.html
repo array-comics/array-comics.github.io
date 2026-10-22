@@ -1,6 +1,8 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
 
+{{ if eq .Data.Plural "tags" }}
+<!-- Компактный вид для меток -->
 <ul class="taxonomy-list">
     {{ range .Data.Terms }}
     <li>
@@ -10,4 +12,27 @@
     </li>
     {{ end }}
 </ul>
+
+{{ else }}
+<!-- Карточки с обложками для издателей и серий -->
+<div class="taxonomy-grid">
+    {{ range .Data.Terms }}
+    <a href="{{ .Page.Permalink }}" class="taxonomy-card">
+        {{ with .Pages }}
+            {{ with (shuffle . | first 1) }}
+                {{ with (index . 0).Params.cover }}
+                <div class="cover-preview">
+                    <img src="{{ .image }}" alt="{{ $.Page.Title }}" loading="lazy">
+                </div>
+                {{ end }}
+            {{ end }}
+        {{ end }}
+        <div class="taxonomy-info">
+            <h3>{{ .Page.Title }}</h3>
+            <span class="count">{{ .Count }} комиксов</span>
+        </div>
+    </a>
+    {{ end }}
+</div>
+{{ end }}
 {{ end }}

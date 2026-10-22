@@ -8,16 +8,49 @@
         </div>
         <div class="comic-info">
             <h1>{{ .Title }}</h1>
-            <p class="meta">
-                <strong>Издатель:</strong> <a href="/publishers/{{ range .Params.publishers }}{{ . | urlize }}{{ end }}">{{ range .Params.publishers }}{{ . }}{{ end }}</a><br>
-                <strong>Серия:</strong> <a href="/series/{{ .Params.series | urlize }}">{{ .Params.series }}</a><br>
-                <strong>Год:</strong> {{ .Params.year }}<br>
-                <strong>№ выпуска:</strong> {{ .Params.issue_number }}
-            </p>
+            
+            <div class="meta-block">
+                <div class="meta-row">
+                    <span class="meta-label">Издатель:</span>
+                    <span class="meta-value">
+                        {{ range .Params.publishers }}
+                        <a href="/publishers/{{ . | urlize }}">{{ . }}</a>
+                        {{ end }}
+                    </span>
+                </div>
+                
+                <div class="meta-row">
+                    <span class="meta-label">Серия:</span>
+                    <span class="meta-value">
+                        <a href="/series/{{ .Params.series | urlize }}">{{ .Params.series }}</a>
+                    </span>
+                </div>
+                
+                <div class="meta-row">
+                    <span class="meta-label">Год:</span>
+                    <span class="meta-value">{{ .Params.year }}</span>
+                </div>
+                
+                <div class="meta-row">
+                    <span class="meta-label">№ выпуска:</span>
+                    <span class="meta-value">
+                        {{ .Params.issue_number }}
+                        {{ if .Params.issue_total }}
+                        из {{ .Params.issue_total }}
+                        {{ end }}
+                    </span>
+                </div>
+                
+                {{ if .Params.complete_series }}
+                <div class="meta-row">
+                    <span class="badge-complete">✓ Полная серия</span>
+                </div>
+                {{ end }}
+            </div>
             
             {{ if .Params.download_url }}
             <a href="{{ .Params.download_url }}" class="download-btn" target="_blank" rel="noopener">
-                 Скачать / Облако
+                ⬇ Скачать / Облако
             </a>
             {{ end }}
             
@@ -29,8 +62,11 @@
         </div>
     </div>
     
-    <div class="comic-content">
-        {{ .Content }}
+    <div class="comic-description">
+        <div class="description-icon">📖</div>
+        <div class="description-content">
+            {{ .Content }}
+        </div>
     </div>
 </article>
 {{ end }}

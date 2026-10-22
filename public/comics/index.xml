@@ -1,18 +1,295 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Comics on Array Comics</title>
-    <link>http://localhost:1313/comics/</link>
-    <description>Recent content in Comics on Array Comics</description>
-    <generator>Hugo</generator>
-    <language>ru-ru</language>
-    <atom:link href="http://localhost:1313/comics/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Ember #1</title>
-      <link>http://localhost:1313/comics/ember-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/comics/ember-1/</guid>
-      <description>&lt;p&gt;Это тестовое описание первого выпуска.&lt;/p&gt;</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Comics on Array Comics</title>
+		<link>https://array-comics.github.io/comics/</link>
+		<description>Recent content in Comics on Array Comics</description>
+		<generator>Hugo</generator>
+		<language>ru-ru</language>
+		
+		
+		
+		
+			<atom:link href="https://array-comics.github.io/comics/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Aliens #1</title>
+				<link>https://array-comics.github.io/comics/aliens-1/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/aliens-1/</guid>
+				<description>&lt;p&gt;A group of wildcat planetary prospectors plant their flag on a distant new world, rich in land, resources . . . and mystery. Within this seemingly uninhabited planet lies the greatest archaeological discovery in history, an ancient, abandoned complex of impossible proportions carved deep within the living rock, a mind-numbing labyrinth of passages, ramps, bridges, and galleries that seems to extend limitlessly. But as the exploration of the leviathan dead city proceeds deeper and deeper, the members of the team slowly begin to lose their grip on reality. But madness gives way to fear as the explorers begin to disappear one by one. Something else lives within the necropolis, a faceless horror as deadly and merciless as space itself, a lethal terror that has waited centuries to awake . . . and destroy. At long last, Dark Horse Comics heralds the return of the heavyweight champion of modern science-fiction/horror, Aliens!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Aliens #2</title>
+				<link>https://array-comics.github.io/comics/aliens-2/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/aliens-2/</guid>
+				<description>&lt;p&gt;A strange, abandoned city of impossible scale lies ready to give up its secrets, but at what cost? Jealously guarded by a half-mad group of planetary prospectors, the labyrinthine necropolis may be a treasure trove of incomparable wealth, or a funeral complex with no exit, as an archaeological team from Earth discovers too late. But these off-planet interlopers soon become the least of the prospectors&amp;rsquo; worries, as their priceless possession offers up a monstrous surprise of murderous beasts from the darkest abyssal nightmare&amp;hellip; and the prospectors only hope may lie in the unmarked graves of those they themselves betrayed. Rising again from the darkness, the horror of Aliens returns to the comics world. Aliens is but the first act in the relaunch of all three classic Dark Horse/Fox comics series. Featured in Free Comic Book Day!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Aliens #3</title>
+				<link>https://array-comics.github.io/comics/aliens-3/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/aliens-3/</guid>
+				<description>&lt;p&gt;Untold trillions of miles from Earth, the planet Chione holds limitless treasures, ancient mysteries . . . and horrors beyond imagination. In the presence of the greatest archaeological discovery in human history, biologist David Sereda&amp;rsquo;s journey of discovery becomes a desperate rescue mission as he plunges alone into a vast, maze-like necropolis to save the life of a woman trapped amidst an infestation of deadly xenomorphs. But when Sereda comes face to face with the madmen who murdered his crew &amp;ndash; and buried him alive &amp;ndash; he begins to doubt his quest as he realizes that for any hope of success in the midst of monsters, Sereda may need to make a deal with devils.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Aliens #4</title>
+				<link>https://array-comics.github.io/comics/aliens-4/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/aliens-4/</guid>
+				<description>&lt;p&gt;Can an android dream? After waking from what appears to be just that, the android Sereda struggles with the idea that he may be more damaged than he originally thought. Still, whether it&amp;rsquo;s simply his programming or a newly found free will, Sereda is hell bent on effecting the rescue of the woman whose voice brought him down into the bewildering maze of a seemingly endless necropolis. Most of the surviving planetary prospectors are willing to follow him into the labyrinth, but there are two major obstacles to the rescue mission: a horde of marauding xenomorphs, and the man who shot Sereda, who isn&amp;rsquo;t about to let a damaged synthetic lead the other survivors anywhere.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Dark Avenger #1</title>
+				<link>https://array-comics.github.io/comics/dark-avenger-1/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/dark-avenger-1/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Dark Avenger #2</title>
+				<link>https://array-comics.github.io/comics/dark-avenger-2/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/dark-avenger-2/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Dark Avenger #3</title>
+				<link>https://array-comics.github.io/comics/dark-avenger-3/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/dark-avenger-3/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Dark Avenger #4</title>
+				<link>https://array-comics.github.io/comics/dark-avenger-4/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/dark-avenger-4/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Dark Avenger #5</title>
+				<link>https://array-comics.github.io/comics/dark-avenger-5/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/dark-avenger-5/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Dark Avenger #6</title>
+				<link>https://array-comics.github.io/comics/dark-avenger-6/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/dark-avenger-6/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The Blouse #1</title>
+				<link>https://array-comics.github.io/comics/the-blouse-1/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/the-blouse-1/</guid>
+				<description>&lt;p&gt;A student of Classical Literature at the Sorbonne, Severine is neither beautiful, ugly, brilliant, nor mediocre. The young woman lives a banal existence, without brilliance but without drama, alongside a companion who pays her less attention than a television series or video game. After babysitting, she is given a silk blouse that will mysteriously change her life. From that day forward, men give her a different look, loaded with desire. Does the garment have a magic power? Severine doesn&amp;rsquo;t know, but she finds that it gives her confidence. And it allows her to take destiny into her own hands&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Chicken Devil #1</title>
+				<link>https://array-comics.github.io/comics/chicken-devil-1/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/chicken-devil-1/</guid>
+				<description>&lt;p&gt;Mitchell Moss is about as regular as it gets. He’s married with two children, and co-owns a successful chain of Memphis Hot Chicken restaurants. It’s not the life that screams hero/vigilante&amp;hellip;until he discovers that his business partner is in bed with the mob and owes them $2 million. Unfortunately, Mitch is ill-equipped to be a badass—he’s just a guy who makes really good chicken. Can he protect his family from cold-blooded gangsters? Absolutely not. But maybe the CHICKEN DEVIL can… Writer Brian Buccellato (Detective Comics, The Flash, Witchblade) and artist Hayden Sherman (COLD WAR, MARY SHELLEY MONSTER HUNTER) serve up a darkly comedic crime drama that’s juicy, tender and finger-lickin’ hilarious.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Chicken Devil #2</title>
+				<link>https://array-comics.github.io/comics/chicken-devil-2/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/chicken-devil-2/</guid>
+				<description>&lt;p&gt;The most unlikely chicken-fried revenge story continues. Mitchell, our overmatched hero, must contend with the bloody aftermath of his first run-in with the Russian mob…as he deals with nosey detectives, his shady business partner, Antonio and the stolen heroin.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Chicken Devil #3</title>
+				<link>https://array-comics.github.io/comics/chicken-devil-3/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/chicken-devil-3/</guid>
+				<description>&lt;p&gt;The walls close in around the world&amp;rsquo;s newest (and perhaps only) chicken-inspired vigilante as the Russian mob turns up the heat. But that&amp;rsquo;s cool because Mitchell Moss (thinks he) has nothing to lose. He may be a flightless bird in a devil suit, but he still has a surprise up his wing. Beware the ball pit of DEATH!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Chicken Devil #4</title>
+				<link>https://array-comics.github.io/comics/chicken-devil-4/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/chicken-devil-4/</guid>
+				<description>&lt;p&gt;The earth- (and glass-) shattering final chapter of volume one! On the heels of his first big victory, Mitchell Moss is thrown a major curveball that has him scrambling to finish what he started so he can move on with his life. But how do you un-break bad after you’ve gone on a kill-cray rampage?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Misbegotten: Runaway Nun #1</title>
+				<link>https://array-comics.github.io/comics/misbegotten-runaway-nun-1/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/misbegotten-runaway-nun-1/</guid>
+				<description>&lt;p&gt;In a post-apocalyptic world gone medieval, the Church sends their top monk warrior to infiltrate a renegade scientist’s enclave and kidnap the J-Clone, the Lord’s vat-born twin. Saving the holy clone from the cross forces, the monk must confront the truth of his own (very immaculate) birth. Clones of Marilyn Monroe, Hitler, Gandhi and Jesus… oh my! Misbegotten is cyber-punk religion gone mad!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Misbegotten: Runaway Nun #2</title>
+				<link>https://array-comics.github.io/comics/misbegotten-runaway-nun-2/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/misbegotten-runaway-nun-2/</guid>
+				<description>&lt;p&gt;The Pope orders the kidnapping of the Lord’s body double from the Harlequin Island. Father Elano makes his way to the Domus Mariae, the carrier-turned-abbey. Motley gladiators and augmented Steampunk Templars clash. And Klaudette: the one-eyed geisha blood trafficker from the replica ghetto enters the mix.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Misbegotten: Runaway Nun #3</title>
+				<link>https://array-comics.github.io/comics/misbegotten-runaway-nun-3/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/misbegotten-runaway-nun-3/</guid>
+				<description>&lt;p&gt;Sir Gottfrey arrives aboard Domus Mariae searching for Double-M. Father Micon takes the bullets intended for Elano and dies in his disciple’s arms. On Harlequin Island, Brother Ziggy, a Sigmund Freud-replika-turned-monk, takes runaway replikas to the rendezvous point with the Franciscans’ submarine that has Elano on board. Once inside the replika ghetto, Elano stumbles into the crossfire between two rival gangs and ends up captured by Klaudette.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Misbegotten: Runaway Nun #4</title>
+				<link>https://array-comics.github.io/comics/misbegotten-runaway-nun-4/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/misbegotten-runaway-nun-4/</guid>
+				<description>&lt;p&gt;Klaudette, the one-eyed geisha, stages her latest show: the raping and killing of Father Elano. With the help of his feral Cannies, King Richie’s renegade warriors crash her party and throw her to the sharks. Later, Richie and Elano strike a deal: to aid the Jesuit in his pursuit of J-Clone, Richie will facilitate Elano’s entrance into Sir Gottfrey’s stronghold in exchange for a free pass off the island.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Donald Duck #1</title>
+				<link>https://array-comics.github.io/comics/donald-duck-1/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/donald-duck-1/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The Boogyman #1</title>
+				<link>https://array-comics.github.io/comics/the-boogyman-1/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/the-boogyman-1/</guid>
+				<description>&lt;p&gt;Monsters don&amp;rsquo;t only exist in children&amp;rsquo;s imaginations&amp;hellip; Passionate about reading, Elliott has always been drawn to the stories of boogymen, those monstrous creatures which, at night, hide in the shadows or under the bed to frighten little children. He can&amp;rsquo;t imagine how much they will change his life&amp;hellip; Witnessing the bloody murder of his parents, he will discover that boogymen do indeed exist, and very precise codes govern their existence. When one of the most powerful boogymen, &amp;quot;Father-Death,&amp;quot; decides to protect him, Elliott finds himself plunged into a terrible conflict at the heart of a universe as terrifying as it is fascinating. On a dark, stormy night, Elliott&amp;rsquo;s destiny will be fulfilled&amp;hellip; Mathieu Salvia and Djet reinvent a whole mythology of childhood in a tender horror story and an initiatory journey of mourning and the acceptance of fear.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Boogyman #2</title>
+				<link>https://array-comics.github.io/comics/the-boogyman-2/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/the-boogyman-2/</guid>
+				<description>&lt;p&gt;Monsters don&amp;rsquo;t only exist in children&amp;rsquo;s imaginations&amp;hellip; The monsters who took Elliott’s family from him are hot on his trail. But they must also contend with his new protector, Father Death. Thought to be long dead, this boogyman is more than he seems. An ancient power long thought lost, but now that he has shown himself to save the boy, he becomes a target himself!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Boogyman #3</title>
+				<link>https://array-comics.github.io/comics/the-boogyman-3/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/the-boogyman-3/</guid>
+				<description>&lt;p&gt;Monsters don&amp;rsquo;t only exist in children&amp;rsquo;s imaginations&amp;hellip; Thinking they’ve caught their prey, the monsters pursuing Father Death and Elliott are surprised to find that maybe there are some Elders left in the world. But that won’t deter them from pursuing the boy and his protector…or destroy anyone who gets in their way. And any reprieve granted to the boogyman and his ward is temporary at best!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Boogyman #4</title>
+				<link>https://array-comics.github.io/comics/the-boogyman-4/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/the-boogyman-4/</guid>
+				<description>&lt;p&gt;Monsters don&amp;rsquo;t only exist in children&amp;rsquo;s imaginations&amp;hellip; After being pursued through the city streets, Elliott has some questions about who Father Death really is and how they came to be together. And while the answers may quench the boy’s curiosity, it doesn’t make him or his protector any safer from the increasing number of boogymen hot on their tails!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Boogyman #5</title>
+				<link>https://array-comics.github.io/comics/the-boogyman-5/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/the-boogyman-5/</guid>
+				<description>&lt;p&gt;Monsters don&amp;rsquo;t only exist in children&amp;rsquo;s imaginations&amp;hellip; With the number of enemies chasing after Father Death and Elliott growing, they can only hide for so long. And being a friend to the young boy and his boogyman protector is proving to be a deadly decision for those brave enough to make it.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Boogyman #6</title>
+				<link>https://array-comics.github.io/comics/the-boogyman-6/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/the-boogyman-6/</guid>
+				<description>&lt;p&gt;Monsters don&amp;rsquo;t only exist in children&amp;rsquo;s imaginations&amp;hellip; The final showdown between Father Death and the boogymen pursuing him and his young friend is finally here! But it isn’t just the ancient one’s fate that hangs in the balance…Elliott’s future (or lack thereof) will be determined in the life-or-death struggle!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Broken Moon #1</title>
+				<link>https://array-comics.github.io/comics/broken-moon-1/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/broken-moon-1/</guid>
+				<description>&lt;p&gt;When explosions on the moon rock the surface of the Earth, humans are all but wiped out - allowing monsters of legend to rise and take control of civilization. Vampires, with their polluted cities and human factory-farming, have thus far come out on top - but if the werewolves have anything to say about it, the vampires&amp;rsquo; reign won&amp;rsquo;t last for long&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Broken Moon #2</title>
+				<link>https://array-comics.github.io/comics/broken-moon-2/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/broken-moon-2/</guid>
+				<description>&lt;p&gt;Humans David and Avery only narrowly escape a vampire attack with their lives, thanks to the unexpected aid of&amp;hellip; a pack of werewolves? Werewolf leader Rantz has decided to stop hunting humans due to their shared vampire enemy. But even working together, they&amp;rsquo;re vastly outnumbered. To seek out help, Rantz relies on the ancient tale of a madman &amp;ndash; one they called .&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Broken Moon #3</title>
+				<link>https://array-comics.github.io/comics/broken-moon-3/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/broken-moon-3/</guid>
+				<description>&lt;p&gt;In dire need of an army, werewolves and humans searched for Frankenstein - and found him&amp;hellip; in a city alongside scores of other patchwork people he&amp;rsquo;s sewn up along the way. But this mad, broken doctor is only interested in experimenting - quite possibly on Rantz&amp;rsquo;s and Avery&amp;rsquo;s friends - and it will take a dangerous journey to the Vampire City to convince him that the destruction of the world is at hand.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Broken Moon #4</title>
+				<link>https://array-comics.github.io/comics/broken-moon-4/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/broken-moon-4/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s come down to this: an all-out attack on the vampires&amp;rsquo; city stronghold, with the fate of the planet hanging in the balance. But will Frankenstein&amp;rsquo;s army be enough for the humans and werewolves to tip the scales in their favor? And how will they stop the vampires&amp;rsquo; ocean pollution from toxifying the air itself? Don&amp;rsquo;t miss the epic finale to the horror series critics are raving about!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Broken Moon: Legends of the Deep #2</title>
+				<link>https://array-comics.github.io/comics/broken-moon-legends-of-the-deep-2/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/broken-moon-legends-of-the-deep-2/</guid>
+				<description>&lt;p&gt;Warring factions of monsters in the post-apocalypse! Scores of once-mythical gill men, driven out of the sea by pollution and enourmous mutated tentacle creatures, have appeared at the edge of Korbin&amp;rsquo;s fishing village&amp;hellip; not to attack, but to ask for help! But with what?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Broken Moon: Legends of the Deep #3</title>
+				<link>https://array-comics.github.io/comics/broken-moon-legends-of-the-deep-3/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/broken-moon-legends-of-the-deep-3/</guid>
+				<description>&lt;p&gt;Korbin and his entourage of gill men have been saved from a Kraken attack by none other than Avery, David, and Keeney the Franken-werewolf! But how do Avery and Keeney know the same melody that always calms Keeney down from a rage? Old loyalties are unearthed and underwater nuclear meltdown looms in this latest issue of the hit series. Note: The digital edition (2/1/2017) for this issue was released before the print edition.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Broken Moon: Legends of the Deep #4</title>
+				<link>https://array-comics.github.io/comics/broken-moon-legends-of-the-deep-4/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/broken-moon-legends-of-the-deep-4/</guid>
+				<description>&lt;p&gt;It finally becomes clear what the nuclear meltdowns have awoken: Cthulhu, the Old One, and his legacy of madness. While Lorren becomes obsessed and begins to pursue the giant god; Korbin, Keeney, David, and Avery search for allies in the form of their former enemies: vampires.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Broken Moon: Legends of the Deep #6</title>
+				<link>https://array-comics.github.io/comics/broken-moon-legends-of-the-deep-6/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/broken-moon-legends-of-the-deep-6/</guid>
+				<description>&lt;p&gt;The vile threat of Cthulhu has brought every mythical monster together once again to defeat him! But a crazed, Cthulhu-mad Lorren will not be easily shut down, and when he threatens Korbin&amp;rsquo;s son, the claws of the wolf come out. &amp;quot;Monster mash&amp;quot; takes on a whole new meaning in this action-packed conclusion to the second Broken Moon mini-series!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Broken Moon: Legends of the Deep #5</title>
+				<link>https://array-comics.github.io/comics/broken-moon-legends-of-the-deep-5/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/broken-moon-legends-of-the-deep-5/</guid>
+				<description>&lt;p&gt;Korbin, David, Avery, Keeney, and To’klace, along with their reluctant vampire allies, set out by boat to find the only creature who might be able to stop Cthulhu and the Tok-tok: Dagon. But Dagon is guarded by sea serpents and not even guaranteed to awaken, and Cthulhu is spreading a madness akin to nuclear radiation. The evocative horror art of Nat Jones brings the latest chapter of AGP’s post-apocalyptic hit to thrilling life! Note: The digital edition (6/7/2017) for this issue was released before the print edition.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Life Zero #1</title>
+				<link>https://array-comics.github.io/comics/life-zero-1/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/life-zero-1/</guid>
+				<description>&lt;p&gt;Где вы были, когда пришло облако? Где вы были, когда мир изменился навсегда? Где вы были, когда люди начали умирать?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Life Zero #2</title>
+				<link>https://array-comics.github.io/comics/life-zero-2/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/life-zero-2/</guid>
+				<description>&lt;p&gt;Новое захватывающее приключение от Марко Чеккетто — художника комиксов Marvel «Devil’s Reign» и «Сорвиголова»! Выбраться с капитаном Шако из тюрьмы, кишащей зараженными заключенными, — задача непростая, но когда операция по эвакуации идет наперекосяк, шансы на выживание могут свестись к нулю. В этой отчаянной борьбе за спасение и право командовать действует лишь одно правило: убей или умри.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Life Zero #3</title>
+				<link>https://array-comics.github.io/comics/life-zero-3/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/life-zero-3/</guid>
+				<description>&lt;p&gt;From the artist of Marvel Comics&amp;rsquo; Devil&amp;rsquo;s Reign &amp;amp; Daredevil, Marco Checchetto, comes a thrilling new adventure! The team makes their way through the city in search of Derek and Laura&amp;rsquo;s daughter, but finding themselves surrounded by the infected puts their lives and their unit cohesion at risk. Can they hold it together long enough to save an innocent life?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Life Zero #5</title>
+				<link>https://array-comics.github.io/comics/life-zero-5/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/life-zero-5/</guid>
+				<description>&lt;p&gt;After tragedy strikes Derek and Laura, their hopelessness is turned into a quest to find out what caused the cloud that brought the world to its knees. And while one discovery brings about hope, not all news is good news, and things may be even more terrifying than anyone originally expected!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Life Zero #6</title>
+				<link>https://array-comics.github.io/comics/life-zero-6/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/life-zero-6/</guid>
+				<description>&lt;p&gt;Captain Derek Shako has had to make some tough choices to keep as many of his people alive as possible, but some of those choices are about to come back and haunt him more than any zombie outbreak ever could!&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

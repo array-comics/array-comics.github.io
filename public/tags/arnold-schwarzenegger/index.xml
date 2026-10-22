@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Arnold Schwarzenegger on Array Comics</title>
+		<link>http://localhost:1313/tags/arnold-schwarzenegger/</link>
+		<description>Recent content in Arnold Schwarzenegger on Array Comics</description>
+		<generator>Hugo</generator>
+		<language>ru-ru</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/tags/arnold-schwarzenegger/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>President Evil #2</title>
+				<link>http://localhost:1313/comics/president-evil-2/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/comics/president-evil-2/</guid>
+				<description>&lt;p&gt;Many a political figure has had to deal with skeletons in his closet. Only one has suffered zombies in his cabinet! The zombie plague continues to ravage the nation&amp;rsquo;s capital, and it&amp;rsquo;s up to &amp;quot;Ba-rot&amp;quot; Obama and his political allies and rivals to band together and save the nation. But the military&amp;rsquo;s already unleashed its own solution, secret weapon Steven Corvair, armed with all the latest in comic-geek weaponry, and their cure may just prove more devastating than the disease! Can the candidate for change and his bipartisan brigade rein in Corvair and wake the nation from its zombie nightmare? YES, THEY CAN!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>President Evil #3</title>
+				<link>http://localhost:1313/comics/president-evil-3/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/comics/president-evil-3/</guid>
+				<description>&lt;p&gt;Eat the Press Your source for scare and unbalanced news! In the wake of &amp;lsquo;Ba-rot&amp;rsquo; Obama&amp;rsquo;s assault on the undead presidents, the survivors are reeling and the press want answers! With the government and military in tatters, Bill O&amp;rsquo;Smiley and Crush Limbo take to the airwaves and declare themselves de facto leaders of the people. Now the C-I-C of an army of zombies, will Obama use his trump card to bring peace at last, or will he plunge us into a true American nightmare?&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

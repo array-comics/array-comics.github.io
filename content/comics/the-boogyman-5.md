@@ -1,5 +1,6 @@
 ﻿---
 title: "The Boogyman #5"
+weight: 33
 series: "The Boogyman"
 publishers:
   - "Ablaze"
@@ -13,6 +14,10 @@ cover:
   image: "/assets/covers/array_The-Boogyman_v5_2023.jpg"
 download_url: ""
 
+issue_total: "6"
+complete_series: true
+
+added_date: "2026-10-21T14:11:38"
 draft: false
 ---
 

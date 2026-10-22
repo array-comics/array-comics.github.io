@@ -1,25 +1,330 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Tags on Array Comics</title>
-    <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on Array Comics</description>
-    <generator>Hugo</generator>
-    <language>ru-ru</language>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Комикс</title>
-      <link>http://localhost:1313/tags/%D0%BA%D0%BE%D0%BC%D0%B8%D0%BA%D1%81/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%D0%BA%D0%BE%D0%BC%D0%B8%D0%BA%D1%81/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Тест</title>
-      <link>http://localhost:1313/tags/%D1%82%D0%B5%D1%81%D1%82/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%D1%82%D0%B5%D1%81%D1%82/</guid>
-      <description></description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Метки on Array Comics</title>
+		<link>https://array-comics.github.io/tags/</link>
+		<description>Recent content in Метки on Array Comics</description>
+		<generator>Hugo</generator>
+		<language>ru-ru</language>
+		
+		
+		
+		
+			<atom:link href="https://array-comics.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>1990</title>
+				<link>https://array-comics.github.io/tags/1990/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/1990/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>2009</title>
+				<link>https://array-comics.github.io/tags/2009/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/2009/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>2015</title>
+				<link>https://array-comics.github.io/tags/2015/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/2015/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>2016</title>
+				<link>https://array-comics.github.io/tags/2016/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/2016/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>2017</title>
+				<link>https://array-comics.github.io/tags/2017/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/2017/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>2021</title>
+				<link>https://array-comics.github.io/tags/2021/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/2021/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>2022</title>
+				<link>https://array-comics.github.io/tags/2022/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/2022/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>2023</title>
+				<link>https://array-comics.github.io/tags/2023/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/2023/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>2024</title>
+				<link>https://array-comics.github.io/tags/2024/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/2024/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Adolf Hitler</title>
+				<link>https://array-comics.github.io/tags/adolf-hitler/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/adolf-hitler/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Avery</title>
+				<link>https://array-comics.github.io/tags/avery/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/avery/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Bastien Vives</title>
+				<link>https://array-comics.github.io/tags/bastien-vives/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/bastien-vives/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Ben Meares</title>
+				<link>https://array-comics.github.io/tags/ben-meares/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/ben-meares/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Brian Buccellato</title>
+				<link>https://array-comics.github.io/tags/brian-buccellato/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/brian-buccellato/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Caesar Voghan</title>
+				<link>https://array-comics.github.io/tags/caesar-voghan/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/caesar-voghan/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Casey Bailey</title>
+				<link>https://array-comics.github.io/tags/casey-bailey/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/casey-bailey/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>David</title>
+				<link>https://array-comics.github.io/tags/david/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/david/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Dewey</title>
+				<link>https://array-comics.github.io/tags/dewey/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/dewey/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Djet</title>
+				<link>https://array-comics.github.io/tags/djet/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/djet/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Donald Duck</title>
+				<link>https://array-comics.github.io/tags/donald-duck/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/donald-duck/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Elano</title>
+				<link>https://array-comics.github.io/tags/elano/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/elano/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Eric Granger</title>
+				<link>https://array-comics.github.io/tags/eric-granger/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/eric-granger/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Father Micon</title>
+				<link>https://array-comics.github.io/tags/father-micon/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/father-micon/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Frankenstein&#39;s Monster</title>
+				<link>https://array-comics.github.io/tags/frankensteins-monster/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/frankensteins-monster/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Hayden Sherman</title>
+				<link>https://array-comics.github.io/tags/hayden-sherman/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/hayden-sherman/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Huey</title>
+				<link>https://array-comics.github.io/tags/huey/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/huey/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Jesus Christ</title>
+				<link>https://array-comics.github.io/tags/jesus-christ/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/jesus-christ/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>John Arcudi</title>
+				<link>https://array-comics.github.io/tags/john-arcudi/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/john-arcudi/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Justin Case</title>
+				<link>https://array-comics.github.io/tags/justin-case/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/justin-case/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>King Richard the Lion-Hearted</title>
+				<link>https://array-comics.github.io/tags/king-richard-the-lion-hearted/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/king-richard-the-lion-hearted/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Klaudette</title>
+				<link>https://array-comics.github.io/tags/klaudette/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/klaudette/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Louie</title>
+				<link>https://array-comics.github.io/tags/louie/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/louie/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Mahatma Gandhi</title>
+				<link>https://array-comics.github.io/tags/mahatma-gandhi/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/mahatma-gandhi/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Marco Checchetto</title>
+				<link>https://array-comics.github.io/tags/marco-checchetto/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/marco-checchetto/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Marilyn Monroe</title>
+				<link>https://array-comics.github.io/tags/marilyn-monroe/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/marilyn-monroe/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Mathieu Salvia</title>
+				<link>https://array-comics.github.io/tags/mathieu-salvia/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/mathieu-salvia/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Mitchell Moss</title>
+				<link>https://array-comics.github.io/tags/mitchell-moss/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/mitchell-moss/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Nat Jones</title>
+				<link>https://array-comics.github.io/tags/nat-jones/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/nat-jones/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Philip Kim</title>
+				<link>https://array-comics.github.io/tags/philip-kim/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/philip-kim/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Rantz</title>
+				<link>https://array-comics.github.io/tags/rantz/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/rantz/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Sir Gottfrey</title>
+				<link>https://array-comics.github.io/tags/sir-gottfrey/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/sir-gottfrey/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Stefano Vietti</title>
+				<link>https://array-comics.github.io/tags/stefano-vietti/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/stefano-vietti/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Steve Niles</title>
+				<link>https://array-comics.github.io/tags/steve-niles/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/steve-niles/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Winston Churchill</title>
+				<link>https://array-comics.github.io/tags/winston-churchill/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/winston-churchill/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Zach Howard</title>
+				<link>https://array-comics.github.io/tags/zach-howard/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/tags/zach-howard/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>

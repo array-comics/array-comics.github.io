@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>2023 on Array Comics</title>
+		<link>https://array-comics.github.io/tags/2023/</link>
+		<description>Recent content in 2023 on Array Comics</description>
+		<generator>Hugo</generator>
+		<language>ru-ru</language>
+		
+		
+		
+		
+			<atom:link href="https://array-comics.github.io/tags/2023/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Boogyman #5</title>
+				<link>https://array-comics.github.io/comics/the-boogyman-5/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/the-boogyman-5/</guid>
+				<description>&lt;p&gt;Monsters don&amp;rsquo;t only exist in children&amp;rsquo;s imaginations&amp;hellip; With the number of enemies chasing after Father Death and Elliott growing, they can only hide for so long. And being a friend to the young boy and his boogyman protector is proving to be a deadly decision for those brave enough to make it.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Boogyman #6</title>
+				<link>https://array-comics.github.io/comics/the-boogyman-6/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://array-comics.github.io/comics/the-boogyman-6/</guid>
+				<description>&lt;p&gt;Monsters don&amp;rsquo;t only exist in children&amp;rsquo;s imaginations&amp;hellip; The final showdown between Father Death and the boogymen pursuing him and his young friend is finally here! But it isn’t just the ancient one’s fate that hangs in the balance…Elliott’s future (or lack thereof) will be determined in the life-or-death struggle!&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

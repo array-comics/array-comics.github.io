@@ -1,5 +1,6 @@
 ﻿---
 title: "The Boogyman #2"
+weight: 30
 series: "The Boogyman"
 publishers:
   - "Ablaze"
@@ -13,6 +14,10 @@ cover:
   image: "/assets/covers/array_The-Boogyman_v2_2022.jpg"
 download_url: ""
 
+issue_total: "6"
+complete_series: true
+
+added_date: "2026-10-21T14:11:37"
 draft: false
 ---
 
